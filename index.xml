@@ -5,12 +5,29 @@
     <link>https://flores-brown.github.io/</link>
       <atom:link href="https://flores-brown.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alejandro Flores-Brown</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2020 11:11:37 -0400</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alejandro Flores-Brown</title>
       <link>https://flores-brown.github.io/</link>
     </image>
+    
+    <item>
+      <title>Test_post</title>
+      <link>https://flores-brown.github.io/post/test_post/</link>
+      <pubDate>Fri, 27 Mar 2020 11:11:37 -0400</pubDate>
+      <guid>https://flores-brown.github.io/post/test_post/</guid>
+      <description>&lt;p&gt;###TEST SITE&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a test post!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Test&lt;/li&gt;
+&lt;li&gt;test&lt;/li&gt;
+&lt;li&gt;test&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
